@@ -1,7 +1,7 @@
 # SEassignment
 
+
 # Requierments for part 1:
-##################################################################################################
 1. Create	a	JSP	page	named	Register.jsp,	this	will	contain	register form	with	first	name,	last	
 name,	username, password	and	confirm	password	fields (make	sure	both password	
 fields to be	of	type	password).
@@ -33,7 +33,6 @@ request	received,	user	should	be	redirected	to	appropriate	welcome	page.
 
 
 # Requierments for part 2:
-##################################################################################################
 1. A	new	user	can	register	with	first	name,	last	name,	user	name	(should	be	unique)	
 password	and	confirm	password.
 2. A	user	can	login	into	system	with	correct	username	and	password
